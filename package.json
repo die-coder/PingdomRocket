@@ -1,0 +1,8 @@
+{
+  "name": "PingdomRocket",
+  "version": "1.0.0",
+  "description": "Incomming Webhook for Pingdom",
+  "repository": "https://github.com/die-coder/PingdomRocket.git",
+  "author": "Phillip Plum",
+  "license": "MIT"
+}
